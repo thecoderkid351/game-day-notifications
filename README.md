@@ -49,9 +49,9 @@ game-day-notifications/
 ## **Setup Instructions**
 
 ## **Clone the Repository**
-bash
-git clone https://github.com/ifeanyiro9/game-day-notifications.git
-cd game-day-notifications
+***bash***
+**git clone https://github.com/ifeanyiro9/game-day-notifications.git
+cd game-day-notifications**
 
 ### **Create an SNS Topic**
 1. Open the AWS Management Console.
